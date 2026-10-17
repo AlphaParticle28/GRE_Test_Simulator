@@ -1,0 +1,23 @@
+# deps & builds
+node_modules/
+dist/
+dist-next/
+dist-old/
+
+# personal test attempts / scores (never commit)
+data/
+data-dev/
+data-e2e/
+
+# test + verification artifacts
+e2e/out/
+verify/
+
+# local tooling / logs
+.claude/
+.vscode/
+PROGRESS.md
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
