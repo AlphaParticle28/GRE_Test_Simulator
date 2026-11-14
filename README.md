@@ -7,10 +7,10 @@ Ran out of free GRE mocks, so I built my own. Runs locally, looks and feels like
 - 3 full practice tests (Verbal + Quant, 54 questions each, ~88 min) [Analytical Writing? What daat??]
 - Section-adaptive like the real GRE: how you do in section 1 decides how hard section 2 is
 - Real timing, Mark/Review, Hide Time, the works
-- The clunky ETS calculator, recreated (order of operations, 8 digits, Transfer Display) (We all know how bad it actually is, F**k you ETS calculator, but gotta do what I gotta do)
+- The clunky ETS calculator, recreated (order of operations, 8 digits, Transfer Display) (We all know how bad it actually is, but gotta do what I gotta do)
 - 130–170 score estimate after each test
 - An error log that tells you *why* you missed stuff (fell for a trap, rushed, changed a right answer, ran out of time), plus a list of the vocab words you missed (These were my patterns, you can add yours)
-- Pause by closing the tab and resume later with the same time left (My test, My way type shi)
+- Pause by closing the tab and resume later with the same time left
 
 ## Run it
 
